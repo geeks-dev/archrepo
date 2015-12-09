@@ -4,5 +4,5 @@
 
 ```
 [geeks-dev]
-Server = https://raw.github.com/geeks-dev/archrepo/master/repo/$arch
+Server = https://raw.githubusercontent.com/geeks-dev/archrepo/master/repo/$arch
 ```
